@@ -1,0 +1,10 @@
+list_of_levels = ["level0", "level0_2", "level0_3", "level1", "level1_1", "level2", "level2_1",
+                  "level2_1_3_1", "level2_1_3_2", "level2_1_3_3", "level2_2", "level3", "level3_0_2_1", "level3_0_2_2",
+                  "menu_of_dead", "level3_1", "level3_2", "level3_3", "level3_4", "level4", "level4_1", 'level4_2',
+                  "level4_3", "level4_4", "level5", "level5_1", "level5_2", "level5_3", "level5_3_0_1", "level5_4",
+                  "level5_5", "level5_6", "level5_7", "level5_7_change_route_1", "level5_7_change_route_2",
+                  "level5_7_escape_1", "level5_7_escape_2", "level5_7_gorge_1", "level5_7_gorge_2", "level5_8_catch_band",
+                  "level5_8_catch_imposter", "level5_8_catch_imposter_2", "level5_8_catch_imposter_3",
+                  "level5_8_catch_imposter_4", "level5_8_lost_band", "level5_9", "level6", "level6_1", "level6_1_1",
+                  "level6_2", "level6_3", "level6_4", "level6_5", "level6_6", "level6_6_resque", "level6_6_arrest",
+                  "level6_6_arrest_2"]
